@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "cypress": "^3.4.1"
+        "cypress": "^12.11.0"
     },
     "description": "Automated browser tests (using Cypress) to check the Audio Network search page",
     "keywords": [
